@@ -28,7 +28,7 @@ I've been a professional developer since the 1980's, and worked for start-ups, s
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bigbadjock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johnamcarthur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/183425/john-mcarthur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://glasgow.social/@BigBadJock" target="_blank" rel="noreferrer">
+<a href="https://glasgow.social/@BigBadJock" target="_blank" rel="me">
 <img src="https://github.com/BigBadJock/BigBadJock.github.io/blob/master/mastodon.svg" width="32" height="32"/>
 </a></p>
 
